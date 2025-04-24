@@ -33,7 +33,7 @@ console.log (mariomanPosition);
 
         marioman.style.bottom = `${pipePosition}px`;
 
-        marioman.src = '/assets/game-over.png';
+        marioman.src = 'assets/game-over.png';
         marioman.style.width = '75px'
         marioman.style.marginLeft = `43px `
 
